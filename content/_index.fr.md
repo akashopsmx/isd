@@ -1,10 +1,10 @@
 ---
-title: "Learn Theme for Hugo"
+title: "ISD Documentation"
 ---
 
-# Thème Hugo learn
+# ISD Installation
 
-[Hugo-theme-learn](http://github.com/matcornic/hugo-theme-learn) est un thème pour [Hugo](https://gohugo.io/), un générateur de site statique, rapide et modern, écrit en Go. Tandis que Hugo est souvent utilisé pour des blogs, ce thème multi-langue est **entièrement conçu pour la documentation**.
+[OpsMx](http://github.com/matcornic/hugo-theme-learn) est un thème pour [Hugo](https://gohugo.io/), un générateur de site statique, rapide et modern, écrit en Go. Tandis que Hugo est souvent utilisé pour des blogs, ce thème multi-langue est **entièrement conçu pour la documentation**.
 
 Ce thème est un portage partiel du [thème Learn](http://learn.getgrav.org/) de [Grav](https://getgrav.org/), un CMS modern écrit en PHP.
 
