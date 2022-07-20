@@ -988,11 +988,12 @@ td {
     background: #34495E;
 }
 #top-bar {
-    background: #F6F6F6;
-    border-radius: 2px;
+    background: #E2EFFF;
+    border-radius: 5x;
     padding: 0 1rem;
     height: 0;
     min-height: 3rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 #top-github-link {
     position: relative;
